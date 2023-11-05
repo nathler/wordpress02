@@ -1,0 +1,65 @@
+# Translation of Plugins - Gutenberg Blocks Library &amp; Toolkit &#8211; Editor Plus - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Gutenberg Blocks Library &amp; Toolkit &#8211; Editor Plus - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-27 18:16:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Gutenberg Blocks Library &amp; Toolkit &#8211; Editor Plus - Stable (latest release)\n"
+
+#: includes/class-editorplus-extensions-manager.php:45
+msgid "This extension extends enables you to insert icons in Gutenberg anywhere in RichText area."
+msgstr "Cette extension vous permet d’insérer des icônes dans Gutenberg n’importe où dans une zone de texte enrichi."
+
+#: includes/class-editorplus-extensions-manager.php:44
+msgid "Icons Library"
+msgstr "Bibliothèque d’icônes"
+
+#: includes/class-editorplus-extensions-manager.php:41
+msgid "This extension core blocks with more useful features besides the styling."
+msgstr "Les blocs du cœur de cette extension offrent des fonctionnalités complémentaires à celles du style."
+
+#: includes/class-editorplus-extensions-manager.php:40
+msgid "Extend Core Blocks"
+msgstr "Étendre les blocs du cœur"
+
+#: includes/class-editorplus-extensions-manager.php:35
+msgid "This extension extends Gutenberg blocks with custom CSS editor and also enable a Global CSS editor in the admin."
+msgstr "Cette extension étend les blocs Gutenberg avec un éditeur CSS personnalisé et permet également un éditeur CSS global dans l’administration."
+
+#: includes/class-editorplus-extensions-manager.php:34
+msgid "CSS Editor"
+msgstr "Éditeur CSS"
+
+#: includes/class-editorplus-extensions-manager.php:31
+msgid "This extension extends Gutenberg bocks with powerful visual style options."
+msgstr "Cette extension étend les bocks Gutenberg avec de puissantes options de style visuelles."
+
+#: includes/class-editorplus-extensions-manager.php:30
+msgid "Styling - NoCode Visual Styler"
+msgstr "Styling - NoCode Visual Styler"
+
+#: includes/class-editorplus-extensions-manager.php:49
+msgid "The Animations extension lets you animate your content in Gutenberg. If enabled you will see Animations panel on all core blocks."
+msgstr "L’extension « Animations » vous permet d’animer votre contenu dans Gutenberg. Si elle est activée, vous verrez le panneau « Animations » sur tous les blocs du cœur."
+
+#: includes/class-editorplus-extensions-manager.php:48
+msgid "Animations"
+msgstr "Animations"
+
+#. Description of the plugin
+msgid "Editor Plus extends Gutenberg editor with advanced design controls, icons and more features."
+msgstr "Editor Plus étend l’éditeur Gutenberg avec des contrôles de conception avancés, des icônes et d’autres fonctionnalités."
+
+#. Plugin URI of the plugin
+msgid "https://wpeditorplus.com/"
+msgstr "https://wpeditorplus.com/"
+
+#. Plugin Name of the plugin
+#: includes/class-editorplus.php:200 includes/class-editorplus.php:201
+msgid "Editor Plus"
+msgstr "Editor Plus"
