@@ -1,0 +1,2 @@
+# wordpress02
+ Planty
